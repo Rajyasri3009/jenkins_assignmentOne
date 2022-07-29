@@ -1,2 +1,1 @@
 server control active
-script file done
